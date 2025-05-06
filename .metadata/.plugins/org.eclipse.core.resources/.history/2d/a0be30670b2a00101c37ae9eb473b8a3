@@ -1,0 +1,10 @@
+package com.my_project.my_project.controller;
+
+//decorados
+//caracteristicas automaticas agregar dentro del proyecto
+
+
+public class HelloWebController {
+
+
+}

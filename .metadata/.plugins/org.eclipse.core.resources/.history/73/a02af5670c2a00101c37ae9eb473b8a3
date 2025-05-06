@@ -1,0 +1,27 @@
+package com.my_project.my_project.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+//decorados son con arrobas @
+//caracteristicas automaticas agregar dentro del proyecto
+
+//web controller se convierte en un servicio web
+
+@Controller
+public class HelloWebController {
+	
+	//utilizamos siempre el protocolo http all web comando de http get, put, post, delete, 
+	
+	//request and response, peticiones y envios de datos al servidor por http y una ruta
+	@RequestMapping("/helloweb") 
+	public String helloHandler() {
+		//agregar otro tipo de operaciones
+		return "hola.html";
+	}
+		
+	}
+	
+	
+
+}

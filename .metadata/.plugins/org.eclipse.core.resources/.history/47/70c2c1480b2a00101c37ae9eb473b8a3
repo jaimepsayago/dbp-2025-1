@@ -1,0 +1,5 @@
+package com.my_project.my_project.controller;
+
+public class HelloWebController {
+
+}

@@ -1,0 +1,14 @@
+package com.my_project.my_project.controller;
+
+import org.springframework.stereotype.Controller;
+
+//decorados son con arrobas @
+//caracteristicas automaticas agregar dentro del proyecto
+
+//web controller se convierte en un servicio web
+
+@Controller
+public class HelloWebController {
+
+
+}
