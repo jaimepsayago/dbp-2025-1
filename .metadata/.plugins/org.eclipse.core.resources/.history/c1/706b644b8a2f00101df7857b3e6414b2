@@ -1,0 +1,5 @@
+package com.my_project.my_project.model;
+
+public class Book {
+
+}

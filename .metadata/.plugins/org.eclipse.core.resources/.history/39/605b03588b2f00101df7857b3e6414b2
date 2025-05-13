@@ -1,0 +1,7 @@
+package com.my_project.my_project.repository;
+
+
+
+public class BookRepository extends CrudRepository {
+
+}
